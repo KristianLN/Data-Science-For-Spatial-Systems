@@ -1,0 +1,4 @@
+RandomForest	0.9947551084074248
+MultiLayerPerceptron	0.8337622835751053
+GradientBoosting	0.9847137732023086
+LogisticRegression	0.9124064108563407
